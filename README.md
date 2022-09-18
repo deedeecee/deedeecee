@@ -1,11 +1,11 @@
-# 👋 Hi there, fellow contributers and computer science people 👋
+# 👋🏻 Hi there, fellow contributers and computer science people 👋🏻
 
 - Welcome to my GitHub profile. :octocat:
 - I'm a 3rd year undergrad pursuing Computer Science and Engineering. :star_struck:
 - I'm currently learning Data Structures and Algorithms in Java. :coffee:
 - I'm also interested in creative designing using Canva and Figma. :electron:
 - I'm looking forward to go deep into the world of DevOps as well. 	:heartpulse:
-- Here are my social media handles, feel free to contact me. :relaxed:
+- Here are my social media handles, feel free to contact. :relaxed:
 
 ## My Socials
 <a href = "https://twitter.com/thisisdebankar" target = "_blank">
