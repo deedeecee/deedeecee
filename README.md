@@ -1,4 +1,4 @@
-# Hi there, fellow contributers and computer science people 👋👋👋
+# 👋 Hi there, fellow contributers and computer science people 👋
 
 - Welcome to my GitHub profile. :octocat:
 - I'm a 3rd year undergrad pursuing Computer Science and Engineering. :star_struck:
