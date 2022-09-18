@@ -9,13 +9,13 @@
 
 ## My Socials
 <a href = "https://twitter.com/thisisdebankar" target = "_blank">
-<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-twitter-social-media-justicon-flat-justicon.png" alt = "Twitter Logo"/>
+<img src="https://img.icons8.com/stickers/100/000000/twitter.png" alt = "Twitter Logo"/>
 </a>
 
-<a href = "https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" target = "_blank">
-<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt = "Linkedin Logo"/>
+<a href = "https://www.linkedin.com/in/debankar-dutta-chowdhury-b61b29201/" target = "_blank">
+<img src="https://img.icons8.com/stickers/100/000000/linkedin.png" alt = "Linkedin Logo"/>
 </a>
 
-<a href = "https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" target = "_blank">
-<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt = "Instagram Logo"/>
+<a href = "https://www.instagram.com/dcdebankar/" target = "_blank">
+<img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" alt = "Instagram Logo"/>
 </a>
