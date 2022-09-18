@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, fellow contributers and computer science people 👋👋👋
 
-<!--
-**deedeecee/deedeecee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Welcome to my GitHub profile. :octocat:
+- I'm a 3rd year undergrad pursuing Computer Science and Engineering. :star_struck:
+- I'm currently learning Data Structures and Algorithms in Java. :coffee:
+- I'm also interested in creative designing using Canva and Figma. :electron:
+- I'm looking forward to go deep into the world of DevOps as well. 	:heartpulse:
+- Here are my social media handles, feel free to contact me. :relaxed:
 
-Here are some ideas to get you started:
+## My Socials
+<a href = "https://twitter.com/thisisdebankar" target = "_blank">
+<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-twitter-social-media-justicon-flat-justicon.png" alt = "Twitter Logo"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = "https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" target = "_blank">
+<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt = "Linkedin Logo"/>
+</a>
+
+<a href = "https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" target = "_blank">
+<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt = "Instagram Logo"/>
+</a>
