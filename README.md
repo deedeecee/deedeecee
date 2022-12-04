@@ -19,3 +19,6 @@
 <a href = "https://www.instagram.com/dcdebankar/" target = "_blank">
 <img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png" alt = "Instagram Logo"/>
 </a>
+
+
+[![@deedeecee's Holopin board](https://holopin.me/deedeecee)](https://holopin.io/@deedeecee)
