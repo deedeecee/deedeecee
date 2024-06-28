@@ -7,7 +7,7 @@
 - I'm currently learning Data Structures and Algorithms in Java. :coffee:
 - I'm also a Quantum Computing enthusiast. ☄️
 - I'm also interested in creative designing using Canva and Figma. :electron:
-- I'm looking forward to go deep into the world of DevOps as well. 	:heartpulse:
+- I'm looking forward to go deep into the world of Java development and DevOps as well. 	💓
 - Here are my social media handles, feel free to contact. :relaxed:
 
 ## My Socials
